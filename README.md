@@ -11,7 +11,7 @@ Enabled 항목은 epg2xml 1.2.3 버전에서는 없어질 예정이다.
 EPG 정보를 가져올 채널은 epg2xml.json의 MyChannel 항목에 등록하게 변경되었다
 
 ## 라이센스
-BSD
+BSD 3-clause "New" or "Revised" License
 
 ## 변경사항
 epg2xml에서 2017년 9월 1일 업데이트
