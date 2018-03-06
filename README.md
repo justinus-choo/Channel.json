@@ -9,4 +9,4 @@ EPG 정보를 가져올 채널은 epg2xml.json의 MyChannel 항목에 등록하�
 BSD 3-clause "New" or "Revised" License
 
 ## 업데이트 날짜
-2018년 3월 6일 업데이트
+2018년 3월 6일 업데이트(2번째)
